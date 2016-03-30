@@ -5,7 +5,7 @@ a {
 	}
 body{
 	width: 1366px;
-	height:1200px;
+	height:742px;
 	text-align:center;
 	margin:0 auto;
 }
@@ -171,9 +171,9 @@ nav a:hover{
 }
 footer
 {
-	background:url(footer.png) no-repeat center;
+	background:url(images.jpg)  center;
 	width: 100%;
-	height: 320px;
+	height: 111px;
     /*background: -mor-linear-gradient(left,#e8e6df 15%,#ffffff 55%) no-repeat;
 	background: -webkit-linear-gradient(left,#e8e6df 15%,#ffffff 55%) no-repeat*/;
 	
