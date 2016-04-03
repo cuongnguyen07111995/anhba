@@ -35,13 +35,13 @@ Yêu cầu **thiết kế**:
 * [ ] Thiết kế responsive
 
 Liệt kê các **yêu cầu nâng cao** đã thực hiện:
-        *Chạy trên nhiều trình duyệt khác nhau
-		*Tạo thời gian chờ để đổi màu cho hover
-		*Tạo hover size cho chữ
-		*Tạo hiệu ứng chạy chữ
-		*Tạo đổ màu từ đậm sang lợt cho background
-		*Tạo màu sắc,ảnh nền ,icon cho trang web
-		*Sử dụng ảnh tạo background cho header và footer
+*Chạy trên nhiều trình duyệt khác nhau
+*Tạo thời gian chờ để đổi màu cho hover
+*Tạo hover size cho chữ
+*Tạo hiệu ứng chạy chữ
+*Tạo đổ màu từ đậm sang lợt cho background
+*Tạo màu sắc,ảnh nền ,icon cho trang web
+*Sử dụng ảnh tạo background cho header và footer
 
 
 ## Demo
